@@ -1,1 +1,1 @@
-# Kaggle
+Решение залдачи с Kaggle: House Prices - Advanced Regression Techniques Вариация с решением при помощи линейной регрессией, score - 0.15937 (чуть хуже бустинга) Датасеты лежат на Kaggle в House Prices - Advanced Regression Techniques
